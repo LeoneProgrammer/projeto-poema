@@ -1,3 +1,3 @@
 # projeto-cordel
- projeto no qual coloco em prática o uso do paralax
+ Segundo projeto ministrado pelo Gustavo Guanabara, no qual coloco em prática o uso do paralax
  https://kauankevinn.github.io/projeto-cordel/
